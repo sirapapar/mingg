@@ -1,0 +1,2 @@
+# mingg
+GitHub Pages
